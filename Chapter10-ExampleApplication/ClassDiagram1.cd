@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chapter10_ExampleApplication.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Chapter10_ExampleApplication.Suit">
+    <Position X="0.5" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAACAACA=</HashCode>
+      <FileName>Suit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Chapter10_ExampleApplication.Rank">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAAEAAEAIAAAAAFBAAAAAgAAAgAAEE=</HashCode>
+      <FileName>Rank.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
